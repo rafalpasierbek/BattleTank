@@ -1,0 +1,3 @@
+C:\Users\Pasik\Desktop\rjkh\udemy kurs\Unreal Projects\BattleTank\BattleTank\Source\BattleTank\BattleTank.Build.cs
+C:\Users\Pasik\Desktop\rjkh\udemy kurs\Unreal Projects\BattleTank\BattleTank\Source\BattleTank.Target.cs
+C:\Users\Pasik\Desktop\rjkh\udemy kurs\Unreal Projects\BattleTank\BattleTank\Source\BattleTankEditor.Target.cs
